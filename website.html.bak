@@ -1,0 +1,317 @@
+<html>
+
+
+<head>
+
+  <link href="website.css" rel="stylesheet" type="text/css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Libre+Franklin:wght@700&family=Open+Sans:wght@400;500&family=Oswald&family=Quintessential&display=swap" 
+rel="stylesheet">
+
+</head>
+
+<body>
+      
+	  
+	<div class="container-fluid logo">
+        
+         <div class="container">
+		 
+		     <img src="https://uploads-ssl.webflow.com/5b680680f109cf5a2fd941ab/5b680f7ddc6fa8394a12fc7f_logo-spoon-white.svg" alt="">
+		   
+		    <div class="menu">
+			    
+				<ul>
+				    <li><a href="#">features</a></li>
+					<li><a href="#">premium</a></li>
+				    <li><a href="#">pricing</a></li>
+					<li><a href="#">about</a></li>
+					<li><a href="#">sign in</a></li>
+					<li><a href="#">get started</a></li>
+					
+				</ul>
+				
+			</div>
+			
+			
+			<div class="inside">
+				 
+				    <h2>  Propel your business.</h2>
+				    <h3>Propel comes with everything you need to get your business rolling.</h3>
+					
+			</div>
+			
+			<div class="box2">
+			
+				<h4>get started</h4>
+				
+		    </div>
+							 
+			
+			
+         </div>
+		 
+	</div>
+	
+	
+    <div class="container-fluid ban">
+	
+	        <div class="container">
+			
+			<h5>Promoting your business and services with<br>Propel:</h5>
+			<h6>A responsive, multi-page business template<br>with everything you need propel your business.</h6>
+			
+			<div class="block">
+			
+			    <div class="block1">
+				
+				     <img src="images/coff.svg">
+					 
+					 <h1>Pro ad constituto</h1>
+					 <p>Ne usu illud albucius abhor reant,<br> partiendo scriptorem mel ne.</p>
+				
+				</div>
+				
+				<div class="block2">
+				
+				    <img src="images/cof2.svg">
+					
+					<h2>Eam commodo</h2>
+					<p>Fuisset intellegat delicatissimi ex <br> mea. Cu probo integre nec.</p>
+				
+				</div>
+				
+				
+				<div class="block3">
+				
+				    <img src="images/cof3.svg">
+					
+					<h3>Reformidans eis</h3>
+					<p>Facer nostro causae ei sed. Vix ex <br> quidam detraxit, vis ad nostro <br> laoreet.</p>
+				
+				</div>
+				
+				
+			
+			
+			
+			</div>
+	    </div>
+	 
+	 </div>
+	
+     <div class="container-fluid nav">
+	 
+	    <div class="container">
+		
+		<img src="images/food.jpg">
+		
+		</div>
+	 
+	 </div>
+	 
+	 <div class="container-fluid content">
+     
+	    <div class="container">
+		    
+			 <p>Illud decore voluptaria has at.</p> <h1> Hinc invenire atomorum no vel.Ut vis</h1> <br> 
+				 <h2>nullam blandit neglegentur, omittam perpetua voluptatum</h2> <br>
+				 <h3>qui eu. Iusto laoreet suscipit vis ad, ad ferri tempor duo.</h3>
+		
+		
+		    <div class="text">
+			    
+				<ul>
+				    <li><a href="#">more</a></li>
+					<li><a href="#">about</a></li>
+					<li><a href="#">us</a></li>
+				</ul>
+			
+			
+			</div>
+		
+		</div>
+	 
+   	 </div>
+	 
+	 		 <div class="container-fluid image">
+		     
+		         <div class="container">
+		 
+		             <div class="text">
+			 
+			         <h1>Ex tempor euismod sapientem<br>ouis lexor pro.</h1>
+					 
+					 <h2> Ad vix dicta iudico</h2> <br>
+					 
+					 <h3>singulis, ius ex mollis veritus.</h3>
+					 
+					 <h4>Possit tritani consectetuer eu his, nusquam<br> 
+					 minimum ut per, eu eos ocurreret splendide<br>
+					 hendrerit. Dicant placerat democritum eos<br> 
+					 id, sit mollis invidunt mediocritatem ei, ne<br> 
+					 fuisset dolores periculis sed.</h4>
+					 
+					 
+			         </div>
+				 
+				</div> 
+		     </div>
+			 
+			 <div class="container-fluid image2 ">
+		 
+             <div class="container">
+			    
+			 
+			     <div class="text2">
+				 
+				 
+				 <h1> Te elit antiopam vix zril<br> recusabo ut pri.</h1> 
+				 
+				 <h2>Quas suscipit ad</h2><br>
+				 
+				 <h3>mea verear vivendo tincidunt.</h3><br>
+				 
+                 <p>Pri cu dico labores officiis, odio principes<br> complectitur ad sea. Sea id doctus<br>
+				 forensibus, nec lorem vocent aliquam eu.<br>
+				 Aliquid definitiones id cum, ad meliore<br> perpetua referrentur sed. Quas suscipit ad<br>
+				 mea verear vivendo tincidunt.</p>
+	             
+				 </div>
+				 
+				 <div class="con">
+				 
+				 <img src="images/food3.jpg">
+				 
+				 </div>
+	           
+			 
+			
+			 
+			
+			 
+			 
+		<div class="con2">
+		    
+			<p>Wanna know more about the Premium deal?</p>
+			
+			<div class="new">
+			
+			      <ul>
+				       <li><a href="#">see</a></li>
+					   <li><a href="#">the</a></li>
+					   <li><a href="#">full</a></li>
+					   <li><a href="#">range</a></li>
+					   <li><a href="#">of</a></li>
+					   <li><a href="#">premium</a></li>
+					   
+					   
+				  </ul>
+			
+			</div>
+			
+		
+		
+        </div>
+		
+        </div>
+		
+        </div>		
+	 
+	 <div class="container-fluid newnav">
+	 
+	 
+	    <div class="container">
+		
+		
+		      <div class="last">
+			  
+			    <h1>party on---</h1>
+				
+				<h2>Quas suscipit ad mea.</h2>
+				
+				<h3>Pri cu dico labores officiis</h3>
+				
+				<h4>odio principes complectitur ad sea.</h4>
+				
+				
+			 </div>
+				
+				<div class="box">
+				
+				<h1>get started</h1>
+				
+				</div>
+				
+				
+			</div>
+	 
+	 </div>
+	 
+	 <div class="container-fluid footer">
+	 
+	    <div class="container">
+		
+		
+		    <div class="final">
+			
+			<img src="https://uploads-ssl.webflow.com/5b680680f109cf5a2fd941ab/5b680f7ddc6fa8394a12fc7f_logo-spoon-white.svg" alt="">
+			
+			<p>© 2018 Spoon Inc, All rights reserved.</p>
+			
+			</div>
+			
+			
+			<div class="one">
+			
+			    <ul>
+				    <li><a href="#">features</a></li>
+				    <li><a href="#">about</a></li>
+					<li><a href="#">Image License Info</a></li>
+				
+				</ul>
+			
+			</div>
+			
+			
+			<div class="two">
+			
+			    <ul>
+				    <li><a href="#">premium</a></li>
+				    <li><a href="#">blog</a></li>
+					<li><a href="#">Powered by Webflow</a></li>
+				
+				</ul>
+			
+			</div>
+			
+			<div class="three">
+			
+			    <ul>
+				    <li><a href="#">pricing</a></li>
+				    <li><a href="#">contact</a></li>
+					
+				</ul>
+			
+			</div>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+		</div>
+	 
+	 
+     </div>	 
+	 
+
+
+</body>
+
+</html>
